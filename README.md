@@ -1,4 +1,4 @@
-# 💫 Hakkımda:
+# 💫 About Me:
 Hello, I am Mehmet Bel. <br>I graduated from Uludağ University, Department of Computer Engineering.<br>I mostly work on data analysis and machine learning with Python.<br>
 
 ## 🌐 Socials:
