@@ -1,6 +1,5 @@
-# 💫 About Me:
-Merhaba, ben Mehmet Bel. <br>Uludağ Üniversitesi Bilgisayar Mühendisliği bölümünden mezun oldum.<br>Çoğunlukla Python ile veri analizi ve makine öğrenmesi üzerine çalışıyorum.<br>
-
+# 💫 Hakkımda:
+Hello, I am Mehmet Bel. <br>I graduated from Uludağ University, Department of Computer Engineering.<br>I mostly work on data analysis and machine learning with Python.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetbel) 
